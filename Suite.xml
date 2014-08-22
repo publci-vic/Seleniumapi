@@ -1,0 +1,9 @@
+<suite name="chanjet.com.api">
+	
+	<test name="test_seleniumcn" >
+		<classes>
+			<class name="com.chanjet.api.WebdiverAPITest01"/>		
+		</classes>
+	</test>
+  
+</suite>

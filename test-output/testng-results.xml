@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14299" started-at="2014-08-18T14:07:26Z" finished-at="2014-08-18T14:07:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14299" started-at="2014-08-18T14:07:26Z" finished-at="2014-08-18T14:07:40Z">
+      <class name="com.chanjet.api.WebdiverAPITest01">
+        <test-method status="PASS" signature="testWebdriverAPIs()[pri:0, instance:com.chanjet.api.WebdiverAPITest01@28864e92]" name="testWebdriverAPIs" duration-ms="14278" started-at="2014-08-18T22:07:26Z" finished-at="2014-08-18T22:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebdriverAPIs -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.chanjet.api.WebdiverAPITest01@28864e92]" name="teardown" is-config="true" duration-ms="1" started-at="2014-08-18T22:07:40Z" finished-at="2014-08-18T22:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.chanjet.api.WebdiverAPITest01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
